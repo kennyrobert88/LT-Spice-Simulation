@@ -1,2 +1,3 @@
 # LT-Spice-Simulation
-Circuit simulation with LT-Spice
+
+## Building an non-inverting circuit using closed loop gain.
